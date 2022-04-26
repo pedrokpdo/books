@@ -1,6 +1,11 @@
 import AlugarItem from "./Components/AlugarItem"
 import NavBar from "./Components/NavBar"
 import harry from '../public/hp.webp'
+import aslam from '../public/aslam.jpg'
+import narnia from '../public/narnia.webp'
+import sombra from '../public/sombra.webp'
+import zaratustra from '../public/zaratustra.jpg'
+import hobbit from '../public/hobbit.jpg'
 
 export default function () {
     return (
@@ -16,29 +21,29 @@ export default function () {
                     imgLivro={harry}
                     />
                       <AlugarItem 
-                    nomeLivro='Harry Potter ea pedra filosofal'
+                    nomeLivro='Narnia'
                     descricaoLivro='Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger.'
-                    imgLivro={harry}
+                    imgLivro={narnia}
                     />
                       <AlugarItem 
-                    nomeLivro='Harry Potter ea pedra filosofal'
+                    nomeLivro='Assim falou Zaratustra'
                     descricaoLivro='Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger.'
-                    imgLivro={harry}
+                    imgLivro={zaratustra}
                     />
                       <AlugarItem 
-                    nomeLivro='Harry Potter ea pedra filosofal'
+                    nomeLivro='Aslam'
                     descricaoLivro='Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger.'
-                    imgLivro={harry}
+                    imgLivro={aslam}
                     />
                       <AlugarItem 
-                    nomeLivro='Harry Potter ea pedra filosofal'
+                    nomeLivro='Hobbit'
                     descricaoLivro='Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger.'
-                    imgLivro={harry}
+                    imgLivro={hobbit}
                     />
                       <AlugarItem 
-                    nomeLivro='Harry Potter ea pedra filosofal'
+                    nomeLivro='Sombra'
                     descricaoLivro='Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger.'
-                    imgLivro={harry}
+                    imgLivro={sombra}
                     />
                 </div>
             </div>
