@@ -1,5 +1,40 @@
 @import 'antd/dist/antd.css';
 
+
 body {
     background-color: rgb(110, 110, 255);
+}
+
+.didi{
+    background-color: rgba(76, 110, 244, 0.464);
+    margin-top: 700px;
+}
+
+.container {
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+.containerNav{
+    background-color: rgba(7, 26, 239, 0.148);
+    width: auto;
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.ulNav{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    align-items: center;
+    width: 700px;
+    height: 70px;
+}
+
+.homeContainer{
+    max-width: 1120px;
+    margin: 0 auto;
+    margin-top: 30px;
 }

@@ -1,10 +1,13 @@
-import { Divider } from "antd";
+import HomeContent from "./Components/HomeContent";
+import NavBar from "./Components/NavBar";
 
-export default function () {
+export default function Home() {
     return (
-        <div>
-            <h1>asdasd</h1>
-        </div>
-
+        <>
+            <NavBar />
+            <div className="homeContainer">
+                <HomeContent />
+            </div>
+        </>
     )
 }
