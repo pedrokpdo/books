@@ -2,7 +2,7 @@
 
 
 body {
-    background-color: rgb(110, 110, 255);
+    background-color: rgb(0, 0, 0);
 }
 
 .didi{
@@ -16,7 +16,7 @@ body {
 }
 
 .containerNav{
-    background-color: rgba(7, 26, 239, 0.148);
+    background-color: rgb(0, 15, 77);
     width: auto;
     height: 70px;
     display: flex;
@@ -31,6 +31,7 @@ body {
     align-items: center;
     width: 700px;
     height: 70px;
+    color: white;
 }
 
 .homeContainer{
